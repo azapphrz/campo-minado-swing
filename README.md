@@ -1,4 +1,4 @@
-# campo-minado-swing
+# Campo Minado Swing
 
 ## Projeto feito durante o curso de Java 13 da [COD3R](https://www.cod3r.com.br/)
 
